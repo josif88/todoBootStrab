@@ -1,0 +1,8 @@
+.container {
+  max-width: 900px;
+  margin-top: 150px;
+}
+
+.todoList{
+    padding:10px;
+}
